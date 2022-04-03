@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "movies-tv-app",
+    "slug": "movies-tv-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "movies-tv-app"
+}
